@@ -41,10 +41,12 @@ LP001114,Male,No,0,Graduate,No,4166,7210,184,360,1,Urban,Y
 LP001116,Male,No,0,Not Graduate,No,3748,1668,110,360,1,Semiurban,Y
 LP001119,Male,No,0,Graduate,No,3600,0,80,360,1,Urban,N
 LP001120,Male,No,0,Graduate,No,1800,1213,47,360,1,Urban,Y
+LP001032,Male,No,0,Graduate,No,4950,0,125,360,1,Urban,Y
 LP001123,Male,Yes,0,Graduate,No,2400,0,75,360,,Urban,Y
 LP001131,Male,Yes,0,Graduate,No,3941,2336,134,360,1,Semiurban,Y
 LP001136,Male,Yes,0,Not Graduate,Yes,4695,0,96,,1,Urban,Y
 LP001137,Female,No,0,Graduate,No,3410,0,88,,1,Urban,Y
+LP001032,Male,No,0,Graduate,No,4950,0,125,360,1,Urban,Y
 LP001138,Male,Yes,1,Graduate,No,5649,0,44,360,1,Urban,Y
 LP001144,Male,Yes,0,Graduate,No,5821,0,144,360,1,Urban,Y
 LP001146,Female,Yes,0,Graduate,No,2645,3440,120,360,0,Urban,N
